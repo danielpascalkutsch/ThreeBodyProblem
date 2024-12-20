@@ -1,0 +1,3 @@
+# The Three-Body Problem Simulation
+
+This project simulates the **three-body problem**, a classical physics challenge involving the motion of three particles under their mutual gravitational forces. The code demonstrates both stable and unstable configurations of the system, using numerical integration to solve the equations of motion. Key features include animations of particle trajectories and visualization of chaotic dynamics, highlighting the sensitivity to initial conditions. Stable configurations, like the rare figure-8 solution, and generic unstable cases are both explored. The project uses Python libraries such as NumPy, SciPy, and Matplotlib for computation and visualization. Perfect for physics enthusiasts and those exploring chaos theory!
